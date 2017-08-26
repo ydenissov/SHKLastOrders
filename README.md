@@ -1,3 +1,3 @@
 # SHKLastOrder
-Last orders for ShopKeeper EvolutionCMS on dashboard
-Change status, preview your orders
+* Change status, preview your orders
+* See last orders for ShopKeeper EvolutionCMS on dashboard

@@ -1,4 +1,4 @@
-# SHKLastOrder
+# SHKLastOrders
 * Change status, preview your orders
 * See last orders for ShopKeeper EvolutionCMS on dashboard
 * 2 languages (eng, ru) available

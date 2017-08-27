@@ -153,11 +153,11 @@ if($e->name == 'OnManagerWelcomeHome'){
 			$data .= '</tbody>';  
 		}
 		else {
-			$data = ''.$_lang['empty_orders'].'';
+			$data = '<div class="card-body">'.$_lang['empty_orders'].'</div>';
 		}
 	}
 	else {
-		$data = ''.$_lang['plugin_not_found'].'';
+		$data = '<div class="card-body">'.$_lang['plugin_not_found'].'</div>';
 	}
 	
 	

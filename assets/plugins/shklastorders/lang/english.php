@@ -5,6 +5,7 @@
 //
 
 $_lang['plugin_name'] = 'Last orders';
+$_lang['plugin_not_found'] = 'ShopKeeper not found';
 
 // Table 
 $_lang['client'] = 'Client';
